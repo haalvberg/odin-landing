@@ -23,6 +23,11 @@ header {
     cursor: pointer;
     text-decoration-color: #3882F6;
     text-underline-offset: 1px;
+    transition-duration: 0.4s;
+}
+
+.logo-type:hover {
+    text-decoration-color: #fff;
 }
 
 .meny ul {
